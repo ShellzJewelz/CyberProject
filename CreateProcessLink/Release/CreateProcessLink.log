@@ -1,0 +1,6 @@
+﻿  CreateProcessLink.cpp
+..\Files\CreateProcessLink.cpp(142): warning C4101: 'socketError' : unreferenced local variable
+..\Files\CreateProcessLink.cpp(183): warning C4101: 'socketError' : unreferenced local variable
+  Generating code
+  Finished generating code
+  CreateProcessLink.vcxproj -> C:\Users\Admin\Desktop\CyberProject\Release\CreateProcessLink.dll

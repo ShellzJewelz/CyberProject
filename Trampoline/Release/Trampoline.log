@@ -1,0 +1,9 @@
+﻿  cpu.c
+  disasm.c
+  disasm_x86.c
+  misc.c
+  mhook.cpp
+     Creating library C:\Users\Admin\Desktop\CyberProject\Release\Trampoline.lib and object C:\Users\Admin\Desktop\CyberProject\Release\Trampoline.exp
+  Generating code
+  Finished generating code
+  Trampoline.vcxproj -> C:\Users\Admin\Desktop\CyberProject\Release\Trampoline.dll

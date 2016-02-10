@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\ServerController\ServerController\bin\Debug\ServerController.exe.config
+C:\Users\Admin\Desktop\ServerController\ServerController\bin\Debug\ServerController.exe
+C:\Users\Admin\Desktop\ServerController\ServerController\bin\Debug\ServerController.pdb
+C:\Users\Admin\Desktop\ServerController\ServerController\obj\Debug\ServerController.FormServerController.resources
+C:\Users\Admin\Desktop\ServerController\ServerController\obj\Debug\ServerController.Properties.Resources.resources
+C:\Users\Admin\Desktop\ServerController\ServerController\obj\Debug\ServerController.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ServerController\ServerController\obj\Debug\ServerController.exe
+C:\Users\Admin\Desktop\ServerController\ServerController\obj\Debug\ServerController.pdb
+C:\Users\Admin\Desktop\ServerController\ServerController\obj\Debug\ServerController.csprojResolveAssemblyReference.cache

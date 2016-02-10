@@ -1,0 +1,6 @@
+﻿  CreateFileLink.cpp
+..\Files\CreateFileLink.cpp(93): warning C4101: 'socketError' : unreferenced local variable
+..\Files\CreateFileLink.cpp(131): warning C4101: 'socketError' : unreferenced local variable
+  Generating code
+  Finished generating code
+  CreateFileLink.vcxproj -> C:\Users\Admin\Desktop\CyberProject\Release\CreateFileLink.dll

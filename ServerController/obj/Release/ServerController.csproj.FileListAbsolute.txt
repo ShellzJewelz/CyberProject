@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\CyberProject\ServerController\bin\Release\ServerController.exe.config
+C:\Users\Admin\Desktop\CyberProject\ServerController\bin\Release\ServerController.exe
+C:\Users\Admin\Desktop\CyberProject\ServerController\bin\Release\ServerController.pdb
+C:\Users\Admin\Desktop\CyberProject\ServerController\obj\Release\ServerController.FormServerController.resources
+C:\Users\Admin\Desktop\CyberProject\ServerController\obj\Release\ServerController.Properties.Resources.resources
+C:\Users\Admin\Desktop\CyberProject\ServerController\obj\Release\ServerController.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\CyberProject\ServerController\obj\Release\ServerController.exe
+C:\Users\Admin\Desktop\CyberProject\ServerController\obj\Release\ServerController.pdb
+C:\Users\Admin\Desktop\CyberProject\ServerController\obj\Release\ServerController.csprojResolveAssemblyReference.cache
